@@ -1,0 +1,42 @@
+I am a data scientist and I wish to explore this dataset through all these phases 
+
+(1. Data Loading
+2. Data Familiarization
+3. Data Cleaning
+4. Data Transformation
+5. Exploratory Data Analysis (EDA)
+6. Descriptive Analysis
+7. Diagnostic Analysis
+8. Inferential Analysis
+9. Predictive Analysis
+10. Prescriptive Analysis) 
+
+for each of them, I will create a class with functions to peform the tasks of that phase. I want to study this dataset and give a practical workflow of how I can accomplish something meaningful with it as a project I can present to employers.
+
+the dataset has 3 tables so I will extract a portion of each 
+
+1. (Row ID	Order ID	Order Date	Ship Date	Ship Mode	Customer ID	Customer Name	Segment	Country/Region	City	State	Postal Code	Region	Product ID	Category	Sub-Category	Product Name	Sales	Quantity	Discount	Profit
+1	CA-2018-152156	08/11/2018	11/11/2018	Second Class	CG-12520	Claire Gute	Consumer	United States	Henderson	Kentucky	42420	South	FUR-BO-10001798	Furniture	Bookcases	Bush Somerset Collection Bookcase	261.96	2	0	41.9136
+2	CA-2018-152156	08/11/2018	11/11/2018	Second Class	CG-12520	Claire Gute	Consumer	United States	Henderson	Kentucky	42420	South	FUR-CH-10000454	Furniture	Chairs	Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back	731.94	3	0	219.582
+3	CA-2018-138688	12/06/2018	16/06/2018	Second Class	DV-13045	Darrin Van Huff	Corporate	United States	Los Angeles	California	90036	West	OFF-LA-10000240	Office Supplies	Labels	Self-Adhesive Address Labels for Typewriters by Universal	14.62	2	0	6.8714
+4	US-2017-108966	11/10/2017	18/10/2017	Standard Class	SO-20335	Sean O'Donnell	Consumer	United States	Fort Lauderdale	Florida	33311	South	FUR-TA-10000577	Furniture	Tables	Bretford CR4500 Series Slim Rectangular Table	957.5775	5	0.45	-383.031
+5	US-2017-108966	11/10/2017	18/10/2017	Standard Class	SO-20335	Sean O'Donnell	Consumer	United States	Fort Lauderdale	Florida	33311	South	OFF-ST-10000760	Office Supplies	Storage	Eldon Fold 'N Roll Cart System	22.368	2	0.2	2.5164
+6	CA-2016-115812	09/06/2016	14/06/2016	Standard Class	BH-11710	Brosina Hoffman	Consumer	United States	Los Angeles	California	90032	West	FUR-FU-10001487	Furniture	Furnishings	Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood	48.86	7	0	14.1694
+)
+
+
+
+2. (Person	Region
+Anna Andreadi	West
+Chuck Magee	East
+Kelly Williams	Central
+Cassandra Brandow	South
+)
+
+3. (Returned	Order ID
+Yes	CA-2016-100762
+Yes	CA-2016-100762
+Yes	CA-2016-100762
+Yes	CA-2016-100762
+)
+
