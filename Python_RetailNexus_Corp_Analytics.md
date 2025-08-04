@@ -87,8 +87,8 @@ This project is ideal for:
 ## 📬 Contact
 
 **Ibrahim Ajiboro**  
-📧 your.email@example.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourname)  
+📧 ajiboro.ibrahim@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ibrahim-ajiboro-62b74410a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsDx%2BMvwySKuvrS4pTNgRxQ%3D%3D))  
 🌍 Based in the UK | Open to global or remote roles
 
 ---
