@@ -1,12 +1,12 @@
-# 📊 RetailNexus Corp: Sales Analytics & Forecasting Project
+# RetailNexus Corp: Sales Analytics & Forecasting Project
 
 **Author:** Ibrahim Ajiboro  
-**Status:** ✅ Completed  
+**Status:** Completed  
 **Tools Used:** Python (Pandas, Seaborn, Prophet), Power BI, PowerPoint, Jupyter Notebook
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This project analyzes and forecasts sales for **RetailNexus Corp**, a fictional retail firm operating across:
 
@@ -14,7 +14,7 @@ This project analyzes and forecasts sales for **RetailNexus Corp**, a fictional 
 - **3 Customer Segments**: Consumer, Corporate, Home Office  
 - **3 Product Categories**: Technology, Furniture, Office Supplies
 
-### 🎯 Objectives:
+### Objectives:
 
 - Uncover trends, patterns, and performance drivers (2016–2019)
 - Diagnose anomalies (e.g., Central region plateau in 2019)
@@ -23,35 +23,35 @@ This project analyzes and forecasts sales for **RetailNexus Corp**, a fictional 
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
 | `RetailNexus_Corp_analytics (8).html` | Full Jupyter Notebook (exported as HTML) covering the project: data prep, EDA, diagnostics, and forecasting |
-| `📘 RetailNexus_Corp 01.pptx` | Executive-style PowerPoint report for stakeholders, summarizing key findings, visuals, diagnostics, and recommendations |
+| ` RetailNexus_Corp 01.pptx` | Executive-style PowerPoint report for stakeholders, summarizing key findings, visuals, diagnostics, and recommendations |
 
 ---
 
-## 📌 Key Analyses
+## Key Analyses
 
-### ✅ Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Yearly regional sales trends
 - Segment and category-level performance
 - Time trends and holiday effects
 
-### ✅ Diagnostic Analysis
+### Diagnostic Analysis
 - Root causes behind plateaued performance in Central
 - Segmental dynamics (e.g., stagnant Consumer segment)
 - Category volatility (e.g., decline in Technology after 2018)
 
-### ✅ Predictive Forecasting
+### Predictive Forecasting
 - Used Prophet to forecast 2020 Q4 Technology sales in the West region:  
-  **🔮 Forecasted Sales: $59,200**
+  ** Forecasted Sales: $59,200**
 - Suggestions for regression and classification models
 
 ---
 
-## 📊 PowerPoint Presentation Highlights
+## PowerPoint Presentation Highlights
 
 The storytelling report features:
 
@@ -63,7 +63,7 @@ The storytelling report features:
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Wrangling & Analysis with Pandas
 - Data Visualization using Seaborn & Matplotlib
@@ -74,7 +74,7 @@ The storytelling report features:
 
 ---
 
-## 📌 Use Case
+## Use Case
 
 This project is ideal for:
 
