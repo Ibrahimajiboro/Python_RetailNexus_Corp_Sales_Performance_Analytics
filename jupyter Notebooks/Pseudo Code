@@ -7,3 +7,7 @@ CLASS DataLoader:
     METHOD load_csv(file_path):
         READ CSV file from file_path into DataFrame
         RETURN DataFrame
+
+    METHOD load_excel(file_path, sheet_name=None):
+        READ Excel file from file_path (with optional sheet_name) into DataFrame
+        RETURN DataFrame
