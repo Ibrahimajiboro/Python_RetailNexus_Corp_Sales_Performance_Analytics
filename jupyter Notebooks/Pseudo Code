@@ -1,0 +1,9 @@
+CLASS DataLoader:
+    ATTRIBUTE: filepath (string, optional)
+
+    METHOD __init__(filepath):
+        STORE filepath
+
+    METHOD load_csv(file_path):
+        READ CSV file from file_path into DataFrame
+        RETURN DataFrame
