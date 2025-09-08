@@ -18,3 +18,7 @@ CLASS DataFamiliarization:
     STATIC METHOD general_information(dataset):
         DISPLAY dataset info (column types, memory usage, non-null counts)
         RETURN info
+
+   STATIC METHOD summary_statistics(dataset):
+        CALCULATE statistical summary (mean, std, min, max, quartiles) for numeric columns
+        RETURN summary
