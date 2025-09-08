@@ -11,3 +11,10 @@ CLASS DataLoader:
     METHOD load_excel(file_path, sheet_name=None):
         READ Excel file from file_path (with optional sheet_name) into DataFrame
         RETURN DataFrame
+
+CLASS DataFamiliarization:
+    PURPOSE: Provide tools to understand and explore datasets
+
+    STATIC METHOD general_information(dataset):
+        DISPLAY dataset info (column types, memory usage, non-null counts)
+        RETURN info
