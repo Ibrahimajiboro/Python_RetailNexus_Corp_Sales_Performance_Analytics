@@ -25,3 +25,4 @@ CLASS DataFamiliarization:
 
    STATIC METHOD check_missing_values(dataset):
         COUNT null/missing values for each column
+        RETURN counts
