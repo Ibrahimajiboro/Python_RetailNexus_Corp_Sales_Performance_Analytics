@@ -23,4 +23,5 @@ CLASS DataFamiliarization:
         CALCULATE statistical summary (mean, std, min, max, quartiles) for numeric columns
         RETURN summary
 
-STATIC METHOD check_missing_values(dataset):
+   STATIC METHOD check_missing_values(dataset):
+        COUNT null/missing values for each column
