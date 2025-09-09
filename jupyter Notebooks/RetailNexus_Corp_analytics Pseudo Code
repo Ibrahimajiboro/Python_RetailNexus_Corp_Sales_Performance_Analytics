@@ -26,3 +26,5 @@ CLASS DataFamiliarization:
    STATIC METHOD check_missing_values(dataset):
         COUNT null/missing values for each column
         RETURN counts
+
+   STATIC METHOD check_duplicated_rows(dataset):
