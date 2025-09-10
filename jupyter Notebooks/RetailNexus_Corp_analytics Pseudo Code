@@ -28,3 +28,4 @@ CLASS DataFamiliarization:
         RETURN counts
 
    STATIC METHOD check_duplicated_rows(dataset):
+        COUNT fully duplicated rows in dataset
