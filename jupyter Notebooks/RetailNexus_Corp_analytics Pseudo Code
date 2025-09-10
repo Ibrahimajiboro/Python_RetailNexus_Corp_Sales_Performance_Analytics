@@ -30,3 +30,7 @@ CLASS DataFamiliarization:
    STATIC METHOD check_duplicated_rows(dataset):
         COUNT fully duplicated rows in dataset
         RETURN count
+   
+   STATIC METHOD show_valueCounts(dataset, column):
+        IF column exists in dataset:
+        
