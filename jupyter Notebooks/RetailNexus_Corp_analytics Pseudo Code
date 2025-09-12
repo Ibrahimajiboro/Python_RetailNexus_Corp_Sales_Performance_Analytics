@@ -37,3 +37,4 @@ CLASS DataFamiliarization:
             RETURN frequencies
         ELSE:
             PRINT error message
+            RETURN None
