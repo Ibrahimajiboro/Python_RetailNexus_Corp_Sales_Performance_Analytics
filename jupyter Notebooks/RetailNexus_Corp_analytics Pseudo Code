@@ -33,4 +33,5 @@ CLASS DataFamiliarization:
    
    STATIC METHOD show_valueCounts(dataset, column):
         IF column exists in dataset:
-        
+            CALCULATE frequency of each unique value in the column (including nulls)
+            RETURN frequencies
