@@ -35,3 +35,5 @@ CLASS DataFamiliarization:
         IF column exists in dataset:
             CALCULATE frequency of each unique value in the column (including nulls)
             RETURN frequencies
+        ELSE:
+            PRINT error message
