@@ -38,3 +38,5 @@ CLASS DataFamiliarization:
         ELSE:
             PRINT error message
             RETURN None
+
+    STATIC METHOD show_chart(dataset, column, chart_type):
