@@ -40,3 +40,5 @@ CLASS DataFamiliarization:
             RETURN None
 
     STATIC METHOD show_chart(dataset, column, chart_type):
+        IF column exists in dataset:
+            PLOT chart of column using specified chart type (bar, line, etc.)
