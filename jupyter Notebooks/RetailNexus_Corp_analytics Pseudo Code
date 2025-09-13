@@ -44,3 +44,5 @@ CLASS DataFamiliarization:
             PLOT chart of column using specified chart type (bar, line, etc.)
             SET title, label axes, adjust layout
             SHOW chart
+        ELSE:
+            PRINT error message
