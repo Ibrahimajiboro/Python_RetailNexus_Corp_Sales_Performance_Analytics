@@ -49,3 +49,4 @@ CLASS DataFamiliarization:
 
 
 CLASS DataCleaner:
+    PURPOSE: Handle missing and duplicate data in datasets
