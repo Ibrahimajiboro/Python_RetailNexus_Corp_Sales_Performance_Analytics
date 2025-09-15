@@ -50,3 +50,5 @@ CLASS DataFamiliarization:
 
 CLASS DataCleaner:
     PURPOSE: Handle missing and duplicate data in datasets
+
+    STATIC METHOD drop_missing_data(dataset):
