@@ -54,3 +54,5 @@ CLASS DataCleaner:
     STATIC METHOD drop_missing_data(dataset):
         REMOVE all rows with missing/null values from dataset
         RETURN cleaned dataset
+    
+    STATIC METHOD drop_duplicate_data(dataset):
