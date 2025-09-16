@@ -52,3 +52,5 @@ CLASS DataCleaner:
     PURPOSE: Handle missing and duplicate data in datasets
 
     STATIC METHOD drop_missing_data(dataset):
+        REMOVE all rows with missing/null values from dataset
+        RETURN cleaned dataset
