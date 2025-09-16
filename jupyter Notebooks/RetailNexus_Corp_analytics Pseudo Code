@@ -56,3 +56,5 @@ CLASS DataCleaner:
         RETURN cleaned dataset
     
     STATIC METHOD drop_duplicate_data(dataset):
+        REMOVE all duplicate rows from dataset
+        RETURN cleaned dataset
